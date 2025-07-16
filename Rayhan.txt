@@ -1,0 +1,18 @@
+----------------------------------
+Personal information...
+
+Name: Rayhan
+Email: iamrayhan4225@gmail.com
+Phone: 01777427478
+Address: Fazlul haq muslim Hall, DU
+Gender: Male
+Dob: 11-Sep-2004
+Degree: BSSE
+Photo: E:\desktop download\Photo\Professional\bar23113724_1704866256.jpg
+
+Game related Information...
+
+Positions: RB
+Answer: No
+Experience: Not many
+----------------------------------
